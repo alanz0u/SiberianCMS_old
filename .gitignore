@@ -1,0 +1,41 @@
+# Editor & Defaults generics files
+*.un~
+*.swp
+*.swo
+*.swn
+*.projectile
+*.ac-php-conf.json
+.DS_Store
+.idea
+/tmp
+/nbproject
+*.sublime-*
+build/
+__*
+.sass-cache
+.gradle
+package-lock.json
+videos
+
+# Development files
+/developer.json
+/release-*
+/.trash
+/.dev
+/apache.default
+/nginx.default
+npm-debug.log
+/node_modules/
+/ionic/platforms/Archive.zip
+/templates
+
+**/data/dummy_*.xml
+
+# Locally built packages
+/packages/*
+/siberian/init*.json
+
+/siberian/var/apps/browser.tgz
+/siberian/var/apps/ionic/android.tgz
+/siberian/var/apps/ionic/ios.tgz
+/siberian/var/apps/ionic/ios-noads.tgz
