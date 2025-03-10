@@ -9,7 +9,7 @@
   "licence": "OSL",
   "private": true,
   "dependencies": {
-    "axios": "^0.26.1",
+    "axios": "^1.8.2",
     "bower": "^1.8.14",
     "clean-css": "^5.3.0",
     "cli-color": "^2.0.2",
@@ -31,7 +31,7 @@
     "plugman": "^3.0.1",
     "run-sequence": "^2.2.1",
     "sass": "^1.49.11",
-    "shelljs": "^0.8.5",
+    "shelljs": "^0.9.0",
     "uglify-es": "^3.3.9",
     "underscore": "^1.13.2",
     "unorm": "^1.6.0",
