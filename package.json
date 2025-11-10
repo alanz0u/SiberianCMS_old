@@ -17,7 +17,7 @@
     "concat": "^1.0.3",
     "cordova": "^11.0.0",
     "cordova-js": "^6.1.0",
-    "cordova-lib": "^11.0.0",
+    "cordova-lib": "^13.0.0",
     "es-check": "^6.2.1",
     "glob-array": "^1.0.0",
     "glob-watcher": "^5.0.5",
