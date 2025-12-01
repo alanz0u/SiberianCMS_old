@@ -15,7 +15,7 @@
     "cli-color": "^2.0.2",
     "command-exists": "^1.2.9",
     "concat": "^1.0.3",
-    "cordova": "^11.0.0",
+    "cordova": "^13.0.0",
     "cordova-js": "^6.1.0",
     "cordova-lib": "^11.0.0",
     "es-check": "^6.2.1",
